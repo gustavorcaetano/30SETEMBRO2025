@@ -13,7 +13,7 @@
 
 ---
 
-##  Sobre o Projeto
+##  SOBRE O PROJETO
 
 Este projeto é uma **experiência interativa cronológica**. Ele nasceu do desejo de criar uma interface que não apenas mostrasse números, mas que convidasse o usuário a "viajar" pelo tempo através de uma interface fluida, lúdica e moderna.
 
@@ -21,7 +21,7 @@ O site apresenta um **contador progressivo** dinâmico que, ao ser interagido, r
 
 ---
 
-##  Funcionalidades Principais
+##  FUNCIONALIDADES PRINCIPAIS
 
 -  **Contador Dinâmico:** Atualização em tempo real utilizando funções assíncronas do JavaScript para garantir precisão.
 -  **Roleta de Anos:** Uma interface de seleção vertical inspirada em seletores nativos (como os de data do iOS), recriada do zero com **CSS e lógica de scroll JS**.
@@ -30,7 +30,7 @@ O site apresenta um **contador progressivo** dinâmico que, ao ser interagido, r
 
 ---
 
-##  Tecnologias Utilizadas
+##  TECNOLOGIAS PRINCIPAIS
 
 Este projeto foca no uso de tecnologias puras (**Vanilla**) para demonstrar domínio sobre a lógica do navegador:
 
@@ -40,7 +40,7 @@ Este projeto foca no uso de tecnologias puras (**Vanilla**) para demonstrar dom�
 
 ---
 
-##  Identidade Visual (UI/UX)
+##  IDENTIDADE VISUAL (UI/UX)
 
 O design utiliza uma paleta de cores vibrante em **degradê (Gradients)**, simbolizando energia e a passagem do tempo:
 
@@ -49,7 +49,7 @@ O design utiliza uma paleta de cores vibrante em **degradê (Gradients)**, simbo
 
 ---
 
-##  Como funciona a "Roleta"?
+##  COMO FUNCIONA A "ROLETA"?
 
 Diferente de um select padrão, a roleta foi construída:
 1. Criando um container com `overflow-y: scroll` e barras de rolagem ocultas.
@@ -58,7 +58,7 @@ Diferente de um select padrão, a roleta foi construída:
 
 ---
 
-## 💡 Desenvolvimento
+##  DESENVOLVIMENTO
 
  **Autor:** Gustavo Ramos Caetano  
  *Estudante de Informática e Desenvolvedor Web* do **Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP Guarulhos)**.  
@@ -70,6 +70,6 @@ Diferente de um select padrão, a roleta foi construída:
 
 <div align="center">
 
-###  *Contador de Dias* **Transformando datas em experiências.**
+###  *CONTADOR DE DIAS* **TRANSFORMANDO DATAS EM EXPERIÊNCIAS.**
 
 </div>
